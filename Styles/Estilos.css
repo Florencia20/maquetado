@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Goldman', cursive;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     
 }
 
@@ -47,6 +47,11 @@ nav ul li:hover ul {
 nav ul li a:hover {
     text-decoration: underline;
     color: rgb(255, 0, 0);
+}
+
+h1{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+font-family: 'Delius', cursive;
 }
 
 /* Section Banner */
